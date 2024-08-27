@@ -12,7 +12,7 @@ This application is applicable for creating 3 types of Bank Accounts in the syst
 
 To make it a seamless experience for the end users, we need to make a strong system which can take required information from users and can utilize it for the respective user's view and their growth in terms of profit for both bank and users.
 
-### Instructions: 
+### Instructions
 
 Mini projects are to be completed in groups. You will have to collaborate with classmates on this assignment. Should you need assistance, you should reach out to your instructional staff. This project will help you to be a good team player.
 
@@ -30,11 +30,28 @@ Because this project is Salesforce Configuration project you must complete the f
 
 <br>
 
+## Kick Off
+
+- Fork this repo
+- Clone this repo
+
 ## Submission
+
+Upon completion, run the following commands:
+
+```shell
+git add .
+git commit -m "done"
+git push origin master
+```
+
+Create Pull Request so your TAs can check up your work.
+
+<!-- ## Submission
 
 Once you finish the project, create a document having screenshots for all the requirements point by point and submit the same document on the provided URL.
 
-**Note**: Upload document on Google Drive (or any other online platform that allows public sharing) and share public link to the document in the submission field in Student Portal.
+**Note**: Upload document on Google Drive (or any other online platform that allows public sharing) and share public link to the document in the submission field in Student Portal. -->
 
 <br>
 
