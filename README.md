@@ -45,7 +45,7 @@ git commit -m "done"
 git push origin master
 ```
 
-Create Pull Request so your TAs can check up your work.
+Create Pull Request so your teaching staff can check up your work.
 
 <!-- ## Submission
 
